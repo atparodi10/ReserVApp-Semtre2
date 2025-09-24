@@ -1,0 +1,29 @@
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.pdb
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.AssemblyReference.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.CoreCompileInputs.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.pdb
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.AssemblyReference.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.CoreCompileInputs.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.pdb
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.pdb
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\obj\Debug\Clínica Odontológica.pdb
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\obj\Debug\Clínica Odontológica.csprojResolveAssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\Clínica Odontológica.exe.config
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\Clínica Odontológica.exe
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\Clínica Odontológica.pdb
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\mscorlib.dll
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\es\mscorlib.resources.dll
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\normidna.nlp
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\normnfc.nlp
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\normnfd.nlp
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\normnfkc.nlp
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\bin\Debug\normnfkd.nlp
+C:\Users\junio\OneDrive\Escritorio\Clínica Odontológica - ESTUDIANTES\obj\Debug\Clínica Odontológica.exe
